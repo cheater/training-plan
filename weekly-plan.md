@@ -8,9 +8,9 @@
 
 # Day 2: arms
 * db concentration curl
-* preacher curl machine (try multiple movement lengths if there's a setting)
 * db curl
 * db hammer curl
+* preacher curl machine (try multiple movement lengths if there's a setting)
 * rotator cuff combo
 * scaption
 
