@@ -20,6 +20,8 @@
 * lying leg curl (hamstrings)
 * leg extension (quadriceps)
 * seated leg press (glute)
+* calves machine
+* soleus exercise (either barbell or leg press)
 
 # Day 4: upper back + tricep
 * pushups?
