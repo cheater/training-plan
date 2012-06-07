@@ -1,7 +1,6 @@
 # Day 1: lower back
 * crunches, long movement
 * erector spinae
-* lateral crunches
 * isolateral row
 * crunches, short movement
 * pulldowns
@@ -27,6 +26,7 @@
 * pushups?
 * shrugs
 * db lying tricep extension
+* lateral crunches
 * isolateral highrow
 * shallow dips (back exercise)
 * deep assisted dips (tricep exercise)
