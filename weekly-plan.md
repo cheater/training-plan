@@ -13,6 +13,8 @@
 * isolateral row
 * crunches, short movement
 * pulldowns
+* ez curl bar, lying down wrist curl
+* barbell standing reverse wrist curl
 
 # Day 3: arms
 * db concentration curl
