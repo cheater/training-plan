@@ -28,6 +28,7 @@
 * pushups?
 * shrugs
 * db lying tricep extension
+* bb skullcrushers with elbow in fixed position
 * lateral crunches
 * isolateral highrow
 * shallow dips (back exercise)
