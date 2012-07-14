@@ -6,6 +6,7 @@
 * seated leg press (glute)
 * calves machine
 * soleus exercise (either barbell or leg press)
+* barbell lunges
 
 # Day 2: lower back
 * crunches, long movement
