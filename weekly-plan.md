@@ -29,7 +29,7 @@
 * shrugs
 * db lying tricep extension
 * bb skullcrushers with elbow in fixed position
-* lateral crunches
+* cross-body crunches machine
 * isolateral highrow
 * shallow dips (back exercise)
 * deep assisted dips (tricep exercise)
